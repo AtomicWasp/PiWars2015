@@ -1,4 +1,4 @@
-#About the Designs
+#About the Code
 In this directory are the code files, written by George Tuli in Python, for the robot.
 
 The PicoBorg Reverse and xboxdrv libraries will need to be installed on the Raspberry to run these programs.
